@@ -1,0 +1,29 @@
+{
+  "name": "streamin",
+  "description": "Provide a better streaming api in your app.",
+  "keywords": ["stream", "input", "output", "file", "request", "path", "url"],
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fent/node-streamin.git"
+  },
+  "author": "fent (https://github.com/fent)",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*-test.js"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "dependencies": {
+    "request": "~2.9.203",
+    "filed": "~0.0.6"
+  },
+  "devDependencies": {
+    "mocha": "x"
+  },
+  "licenses": [ {
+    "type": "MIT",
+    "url" : "http://github.com/fent/node-streamin/raw/master/LICENSE"
+  }]
+}
