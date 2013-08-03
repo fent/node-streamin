@@ -16,8 +16,8 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "request": "~2.9.203",
-    "filed": "~0.0.6"
+    "request": "~2.25.0",
+    "filed": "~0.1.0"
   },
   "devDependencies": {
     "mocha": "x"
