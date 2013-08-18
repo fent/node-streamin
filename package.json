@@ -16,7 +16,7 @@
     "lib": "./lib"
   },
   "dependencies": {
-    "request": "~2.26.0",
+    "request": "~2.27.0",
     "filed": "~0.1.0"
   },
   "devDependencies": {
