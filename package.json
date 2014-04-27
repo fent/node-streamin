@@ -16,8 +16,9 @@
     "lib": "./lib"
   },
   "dependencies": {
+    "filed": "~0.1.0",
     "request": "~2.34.0",
-    "filed": "~0.1.0"
+    "streamify": "~0.2.3"
   },
   "devDependencies": {
     "mocha": "x"
