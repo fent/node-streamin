@@ -1,6 +1,6 @@
 # node-streamin [![Build Status](https://secure.travis-ci.org/fent/node-streamin.png)](http://travis-ci.org/fent/node-streamin)
 
-Provide a better streaming api in your app.
+Provide a better streaming api for your module.
 
 
 # Usage
