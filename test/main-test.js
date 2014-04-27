@@ -1,9 +1,8 @@
-var streamin   = require('..')
-  , assert     = require('assert')
-  , fs         = require('fs')
-  , Stream     = require('stream').Stream
-  , NullStream = require('./nullstream');
-  ;
+var streamin   = require('..');
+var assert     = require('assert');
+var fs         = require('fs');
+var Stream     = require('stream').Stream;
+var NullStream = require('./nullstream');
 
 
 describe('Pass a path to a file', function() {
