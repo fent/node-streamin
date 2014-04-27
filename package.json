@@ -2,7 +2,7 @@
   "name": "streamin",
   "description": "Provide a better streaming api for your module.",
   "keywords": ["stream", "input", "output", "file", "request", "path", "url"],
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/fent/node-streamin.git"
