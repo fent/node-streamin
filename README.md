@@ -18,7 +18,7 @@ That's the gist of it. With this you can give your code a more conveniet API by 
 # API
 ### streamin(io, [requestOptions])
 
-If `io` is a path to a file, it will return a stream that points to a local file. If it's a url, a stream from a remote request will be returned. If it detects that `io` is already a stream, it returns it.
+If `io` is a path to a file, it will return a stream that points to a local file. If it's a url, a stream from a remote request will be returned. If it detects that `io` is already a stream, it returns it. Will also decompress a gzip/deflate compressed http stream.
 
 `requestOptions` can be a hash of options passed to [request](https://github.com/mikeal/request).
 
