@@ -1,7 +1,8 @@
-# node-streamin [![Build Status](https://secure.travis-ci.org/fent/node-streamin.png)](http://travis-ci.org/fent/node-streamin)
+# node-streamin
 
 Provide a better streaming api for your module.
 
+[![Build Status](https://secure.travis-ci.org/fent/node-streamin.png)](http://travis-ci.org/fent/node-streamin) [![Dependency Status](https://gemnasium.com/fent/node-streamin.svg)](https://gemnasium.com/fent/node-streamin)
 
 # Usage
 
